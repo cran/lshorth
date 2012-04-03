@@ -1,0 +1,12 @@
+56a2273b0e17a30503a8d6375068f747 *DESCRIPTION
+9bbd308a30f6fbcd119231127930322b *NAMESPACE
+f7c77191485e46d76a607d31b92fa4d5 *R/lshorth.R
+73dab433e41f7bb682d9b4e96dcc6bf8 *R/plot.lshorth.R
+8004bb3d2271e7058ac363cf08d71381 *demo/00Index
+400c31098813add7474bfda074175691 *demo/lshorth.R
+83d3304502b6725964fffe040fcff390 *inst/CITATION
+d5f50ff7763562f87b242f6646fa5001 *inst/doc/TheShorthPlot.pdf
+584988d0dd039d797e176280597a7894 *man/lshorth-internal.Rd
+21cf44fbe7c096d1caf566a9c0e12f6b *man/lshorth-package.Rd
+cd1d8b5ec6c87447440f0132e345cadb *man/lshorth.Rd
+fad86a3cbad77bbdb49bfa75eeafcb9e *man/plot.lshorth.Rd
